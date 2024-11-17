@@ -8,7 +8,7 @@
 
 - This Is An Unordered List
 - Saw Chaw Chaw Lay 1 Yout Lauk Srr Twy Shin Pya Payy Prr Lrr
-	-Akone Lone Baw Pl
+	- Akone Lone Baw Pl
 - LEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
 [Don't Click](https://papertoilet.com)
