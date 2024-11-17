@@ -1,14 +1,14 @@
 # This is a practice repo header h1
 
 1. This is an **_ordered_** list
-  1. ~~Sub List~~
-  1. *Baw pl*
+	1. ~~Sub List~~
+	1. *Baw pl*
 1. Sar ma ya buu kwr baw
 1. TwT
 
 - This Is An Unordered List
 - Saw Chaw Chaw Lay 1 Yout Lauk Srr Twy Shin Pya Payy Prr Lrr
-  -Akone Lone Baw Pl
+	-Akone Lone Baw Pl
 
 [Don't Click](https://papertoilet.com)
 
