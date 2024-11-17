@@ -11,6 +11,7 @@
   -Akone Lone Baw Pl
 
 [Don't Click](https://papertoilet.com)
+
 [Pyinn Lrr P Kwr](https://chatgpt.com "My Sayar's Website")
 
 ## Table Lrr P Kwr
@@ -18,7 +19,7 @@
 Kana lay d mr pic ayin kyi:
 ![alt text][kway]
 
-[kway]: "C:\Local_Git_Repository\PracticeLabTest\doge-meme.gif"
+[kway]: https://pleated-jeans.com/wp-content/uploads/2024/11/nostalgic-doge-memes-8.jpg
 
 
  
